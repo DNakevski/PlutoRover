@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31313.79
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pluto.Rover", "Pluto.Rover\Pluto.Rover.csproj", "{EF2BBDC4-5520-430D-8ECA-19051C2E57EA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pluto.Rover.Tests", "Pluto.Rover.Tests\Pluto.Rover.Tests.csproj", "{68775700-732A-478D-A79D-AC8BEB1E4363}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EF2BBDC4-5520-430D-8ECA-19051C2E57EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF2BBDC4-5520-430D-8ECA-19051C2E57EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF2BBDC4-5520-430D-8ECA-19051C2E57EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF2BBDC4-5520-430D-8ECA-19051C2E57EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{68775700-732A-478D-A79D-AC8BEB1E4363}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68775700-732A-478D-A79D-AC8BEB1E4363}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68775700-732A-478D-A79D-AC8BEB1E4363}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68775700-732A-478D-A79D-AC8BEB1E4363}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CF405FE5-9556-4985-A33C-EBF423396071}
+	EndGlobalSection
+EndGlobal
