@@ -11,7 +11,7 @@ The solution consists of two projects: **Pluto.Rover** that contains the solutio
 
 The **Pluto.Rover** project is organized in folders by the domain of the classes. Meaning, if the classes are related to the rover than they are in the **Rover** folder, if they are related to the commands they are located in the **Commands** folder. I favored this approach for the particular solution because it gives clear idea about the structure and the namespaces of the classes are in coordination with their domain.   
 
-The tests are organized in the same manner. Each of the tests are located in the corresponding folder that matches their domain and folder structure of the component they they are testing from the **Pluto.Rover** project. 
+The tests are organized in the same manner. Each of the tests are located in the corresponding folder that matches their domain and folder structure of the component that they are testing from the **Pluto.Rover** project. 
 
 #### Solution Structure:
 
